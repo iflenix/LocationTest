@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyBBqI61UkW-Wy4nmhBrHzKnHWssQckr5SU</string>
+    <string name="app_name">LocationTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
